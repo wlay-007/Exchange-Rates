@@ -44,3 +44,5 @@ function outData(){
     eurBox.innerText = eurValue;
 }
 getData();
+
+
